@@ -1,4 +1,5 @@
 # WalmartSalesAnalysis_PowerBI
+![](https://github.com/priteshpanchall/WalmartSalesAnalysis_PowerBI/blob/main/GIF.gif)
 
 OBJECTIVE
 
