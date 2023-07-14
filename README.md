@@ -20,14 +20,23 @@ The objective can be broken down into the following detailed components:
 Useful Insights:
 
 ➡️ Maximum sales are driven through COD payment mode.
+
 ➡️ Maximum sales are from the Customer segment (48.09%) and then corporate(32.55%).
+
 ➡️ Office supplies is the category that has the maximum sales.
+
 ➡️ Most of the customers preferred standard class ship mode.
+
 ➡️ Next 15 Days Forecast which is very useful business.
+
 ➡️ Maximum sales happened in the west region.
+
 ➡️ Maximum Profit earn in the month of October & December.
+
 ➡️ Average taking 4 days to ship the products.
+
 ➡️ Highest no of sales happened in the month of September, November & December
+
 ➡️ State-wise Maximum number of sales happened in California
 
 
